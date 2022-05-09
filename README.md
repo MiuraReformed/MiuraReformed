@@ -8,7 +8,8 @@ Estudo essa área desde os 15 anos, sempre estudei por conta propría até  o fi
 
 Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tambem. As linguagens que mais me adapto são:
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40/>
           
           
    
