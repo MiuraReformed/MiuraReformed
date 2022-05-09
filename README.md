@@ -2,7 +2,7 @@
 ## Meu nome é Victor(ou pode me chamar de Miura também), e vou te falar um pouco sobre mim.
 
 
-                ![onizuka-anime](https://user-images.githubusercontent.com/97893557/167442967-13a362fb-2592-49a9-9c7e-5bbe9cf8b055.gif)
+   ![onizuka-anime](https://user-images.githubusercontent.com/97893557/167442967-13a362fb-2592-49a9-9c7e-5bbe9cf8b055.gif)
 
 
 
