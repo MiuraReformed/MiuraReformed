@@ -1,7 +1,9 @@
 ### Yo! tudo certo?
 ## Meu nome é Victor(ou pode me chamar de Miura também), e vou te falar um pouco sobre mim.
 
-<div class="tenor-gif-embed" data-postid="5458581" data-share-method="host" data-aspect-ratio="1.33858" data-width="100%"><a href="https://tenor.com/view/onizuka-anime-gif-5458581">Onizuka GIF</a>from <a href="https://tenor.com/search/onizuka-gifs">Onizuka GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![onizuka-anime](https://user-images.githubusercontent.com/97893557/167442967-13a362fb-2592-49a9-9c7e-5bbe9cf8b055.gif)
+
 
 
 Como eu disse, Victor, 21 anos, SP , e fascinado por tecnologia.
@@ -11,11 +13,6 @@ Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tamb
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 
-
-          
-          
- 
-          
           
    
 * Java ( todo seu ecossistema) ]
