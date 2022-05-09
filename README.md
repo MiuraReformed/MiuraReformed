@@ -7,7 +7,11 @@ Como eu disse, Victor, 21 anos, SP , e fascinado por tecnologia.
 Estudo essa área desde os 15 anos, sempre estudei por conta propría até  o fim do ensino médio, hoje sou matriculado na UNICSUL no curso de ADS(Analíse e Desenvolvimento de sistemas).
 
 Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tambem. As linguagens que mais me adapto são:
-* Java ( todo seu ecossistema) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+          
+   
+* Java ( todo seu ecossistema) ]
 * ReactJs
 * NodeJs
 * C#
