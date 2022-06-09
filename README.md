@@ -20,7 +20,7 @@ Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tamb
 * NodeJs
 * C#
 * Html/CSS/SASS/JavaScript/TypeScript
-* PHP (em aprendizado)
+* PHP
 
 Agora sobre meus Hobbies e algumas curiosidades:
 
