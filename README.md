@@ -22,6 +22,10 @@ Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tamb
 * Html/CSS/SASS/JavaScript/TypeScript
 * PHP
 
+
+Estou aprendendo:
+<img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=40&color=currentColor" width="40 "height="40">
+
 Agora sobre meus Hobbies e algumas curiosidades:
 
 * Tenho um nivel bom de Inglês, e facilidade para aprender linguas.
