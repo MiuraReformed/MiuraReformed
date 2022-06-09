@@ -15,7 +15,7 @@ Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tamb
 
           
    
-* Java ( todo seu ecossistema)
+* Java ( e suas stacks)
 * ReactJs
 * NodeJs
 * C#
