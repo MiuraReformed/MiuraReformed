@@ -24,7 +24,9 @@ Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tamb
 
 
 Estou aprendendo:
-<img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=40&color=currentColor" width="40 "height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+
 
 Agora sobre meus Hobbies e algumas curiosidades:
 
