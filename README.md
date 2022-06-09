@@ -24,7 +24,7 @@ Comecei a focar na parte back-end da coisa, mas tenho uma boa base no front tamb
 
 
 Estou aprendendo:
-<img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=40&color=currentColor" width="40 "height="40">
+<img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=40&color=currentColor" width="40 "height="40" />
 
 Agora sobre meus Hobbies e algumas curiosidades:
 
